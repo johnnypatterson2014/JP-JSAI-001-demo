@@ -33,3 +33,5 @@ build/
 .vscode/
 
 temp.txt
+/src/test/resources/application.properties
+
